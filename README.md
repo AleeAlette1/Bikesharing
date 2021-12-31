@@ -5,7 +5,7 @@ The purpose of this project is to conduct an analysis on NYC Citibike data to he
 To begin the analysis, I used Pandas to change the "tripduration' column from an integer to a datetime datatype. Using the converted datatype I created visualizations to support the businesss proposal. 
 
 ## Link to Tableau Story
-[Tableau Story](https://public.tableau.com/app/profile/alejandra.magana/vizhome/NYC_Citibike_Challenge/Story1?publish=yes)
+[Tableau Story](https://public.tableau.com/app/profile/alejandra.magana/vizhome/NYCCitibikeChallenge_16408272086330/Story1?publish=yes)
 
 ## Results
 1. Checkout Times for Users
