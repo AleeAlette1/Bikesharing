@@ -14,7 +14,7 @@ The most common ride length is only 5 minutes. However there is a significant nu
 Most riders are make with ride lengths at 5 minutes. There is a significant number of Female riders who have a most common ride length of 6 minutes. 
 
 3. Trips by Weekday for Each Hour
-![Trips_by_Weekdat_for_Each_Hour.jpg](images/Trips_by_Weekdat_for_Each_Hour.jpg)
+![Trips_by_Weekday_for_Each_Hour.jpg](images/Trips_by_Weekday_for_Each_Hour.jpg)
 The Highest number of bike trips (44,905) occur on Thursdays at 6 P.M. However, there are riding trip peaks Monday-Friday between 7 A.M. - 10 A.M. and Saturday - Sunday between 11 A.M.- 7 P.M. 
 
 4. Trips by Gender (Weekday per Hour)
