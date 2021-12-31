@@ -4,9 +4,10 @@
 The purpose of this project is to conduct an analysis on NYC Citibike data to help create a solid business proposal for a bike-sharing program in Des Moines. 
 To begin the analysis, I used Pandas to change the "tripduration' column from an integer to a datetime datatype. Using the converted datatype I created visualizations to support the businesss proposal. 
 
-## Results
-![Embed Code]({{<div class='tableauPlaceholder' id='viz1640935459680' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NYCCitibikeChallenge_16408272086330&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1640935459680');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>}})
+## Link to Tableau Story
+[Tableau Story](https://public.tableau.com/app/profile/alejandra.magana/vizhome/NYC_Citibike_Challenge/Story1?publish=yes)
 
+## Results
 1. Checkout Times for Users
 ![Checkout_Times_for_Users.jpg](images/Checkout_Times_for_Users.jpg)
 The most common ride length is only 5 minutes. However there is a significant number of longer rides. 
